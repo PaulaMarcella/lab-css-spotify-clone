@@ -45,7 +45,7 @@ a {
 
 header {
   display: flex;
-  background-image: url(/starter-code/images/landing.jpg);
+  background-image: url("/images/landing.jpg");
   background-size: contain;
   height: 600px;
   justify-content: center;
